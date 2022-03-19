@@ -21,6 +21,7 @@
 <img align="left" alt="OpenCv" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/opencv.svg" style="padding-right:10px;" />
 <img align="left" alt="OpenCv" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/csharp.svg" style="padding-right:10px;" />
 <img align="left" alt="OpenCv" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" style="padding-right:10px;" />
+<img align="left" alt="OpenCv" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tensorflow.svg" style="padding-right:10px;" />
 
 <br />
 <br />
