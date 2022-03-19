@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ozgunsungar/#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ozgunsungar/)
 
 ### Languages and Tools:
 
