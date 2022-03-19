@@ -11,7 +11,7 @@
 ### Connect with me:
 <a href="https://www.linkedin.com/in/ozgunsungar/">
 <img align="left" alt="OpenCv" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" style="padding-right:10px;" />
-</a>
+</a>]
 
 ### Languages and Tools:
 
