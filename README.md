@@ -4,7 +4,6 @@
 ## I'm a Computer Vision Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about vision and image processing
 - ⚡ Fun fact: I love to  play video games
 
