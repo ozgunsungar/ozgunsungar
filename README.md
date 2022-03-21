@@ -15,14 +15,14 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="OpenCv" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/java.svg" style="padding-right:10px;" />
-<img align="left" alt="OpenCv" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" style="padding-right:10px;" />
+<img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/java.svg" style="padding-right:10px;" />
+<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" style="padding-right:10px;" />
 <img align="left" alt="OpenCv" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/opencv.svg" style="padding-right:10px;" />
-<img align="left" alt="OpenCv" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/numpy.svg" style="padding-right:10px;" />
-<img align="left" alt="OpenCv" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/pandas.svg" style="padding-right:10px;" />
-<img align="left" alt="OpenCv" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tensorflow.svg" style="padding-right:10px;" />
-<img align="left" alt="OpenCv" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/csharp.svg" style="padding-right:10px;" />
-<img align="left" alt="OpenCv" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" style="padding-right:10px;" />
+<img align="left" alt="numpy" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/numpy.svg" style="padding-right:10px;" />
+<img align="left" alt="pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/pandas.svg" style="padding-right:10px;" />
+<img align="left" alt="tensorflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tensorflow.svg" style="padding-right:10px;" />
+<img align="left" alt="csharp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/csharp.svg" style="padding-right:10px;" />
+<img align="left" alt="html5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" style="padding-right:10px;" />
 
 
 <br />
