@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about vision and image processing
-- ⚡ Fun fact: I love to  play video games
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/ozgunsungar/">
