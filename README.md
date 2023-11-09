@@ -1,11 +1,9 @@
 # Hi there, I'm Özgün 
 
 
-## I'm a Computer Vision Engineer!!
+## I'm a Data Scientist!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about vision and image processing
-
 ### Connect with me:
 <a href="https://www.linkedin.com/in/ozgunsungar/">
 <img align="left" alt="OpenCv" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" style="padding-right:10px;" />
